@@ -1,2 +1,3 @@
 # python-repo
-test project
+
+This is a small test python script to download image files from internet. 
